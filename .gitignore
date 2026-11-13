@@ -1,0 +1,6 @@
+client/node_modules/
+client/dist/
+client/.angular/
+server/bin/
+server/obj/
+docs/~$*.docx
